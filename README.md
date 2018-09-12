@@ -48,5 +48,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 5.JavaScript的反应性
 [以Vue为例，解释JavaScript的反应性](https://mp.weixin.qq.com/s/Wm5-3hsqre7ft_f0YBnoeg)
 
-x.后面的以后慢慢添加
+6.后面的以后慢慢添加
+sass的使用
+
+7.引入wangeditor富文本编辑器
 
